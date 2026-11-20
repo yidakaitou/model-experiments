@@ -1,0 +1,32 @@
+{
+ "long": {
+  "json_ok": 1.0,
+  "fact_exact": 1.0,
+  "false_facts_total": 0,
+  "n": 100
+ },
+ "multispeaker": {
+  "json_ok": 1.0,
+  "fact_exact": 1.0,
+  "false_facts_total": 0,
+  "n": 100
+ },
+ "noise": {
+  "json_ok": 1.0,
+  "fact_exact": 1.0,
+  "false_facts_total": 0,
+  "n": 100
+ },
+ "novel": {
+  "json_ok": 1.0,
+  "fact_exact": 1.0,
+  "false_facts_total": 0,
+  "n": 100
+ },
+ "paraphrase": {
+  "json_ok": 1.0,
+  "fact_exact": 1.0,
+  "false_facts_total": 0,
+  "n": 100
+ }
+}
