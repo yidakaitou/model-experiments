@@ -1,0 +1,11 @@
+{
+ "n": 156,
+ "parse_fail": 0,
+ "supported_acc": 1.0,
+ "unsupported_acc": 1.0,
+ "overall_acc": 1.0,
+ "false_alarm": 0,
+ "miss": 0,
+ "wrong_examples": [],
+ "P4_pass": true
+}
