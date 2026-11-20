@@ -1,0 +1,7 @@
+﻿# 环境与凭据（不要提交）
+.env
+*.key
+*.pem
+__pycache__/
+*.pyc
+.DS_Store
